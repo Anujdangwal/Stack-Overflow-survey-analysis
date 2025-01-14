@@ -18,7 +18,7 @@ This repository contains the "Stack Overflow Survey Analysis" project, completed
 
 ## Tools and Technologies
 - **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Matplotlib
+- **Libraries**: Pandas, NumPy, Matplotlib, seaborn, plotly(for data visualization)
 - **Tools**: Jupyter Notebook
 
 ## File Structure
